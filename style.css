@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1:hover {
+ background-color: cyan;
+ transition: 2s;
+}
